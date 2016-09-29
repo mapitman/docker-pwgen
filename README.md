@@ -8,5 +8,6 @@ docker run --rm mapitman/pwgen
 ```
 
 I add an alias in my `.bashrc` file on Windows like this:
-
+```
 alias pwgen="docker run --rm mapitman/pwgen"
+```
