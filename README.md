@@ -1,4 +1,6 @@
 # docker-pwgen
+# Deprecated - Use [docker-linux-tools](https://github.com/mapitman/docker-linux-tools) instead!
+
 [![](https://images.microbadger.com/badges/image/mapitman/pwgen.svg)](https://microbadger.com/images/mapitman/pwgen "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/mapitman/pwgen.svg)](https://microbadger.com/images/mapitman/pwgen "Get your own version badge on microbadger.com")
 
 I use this on my Windows system at work to run [pwgen](https://sourceforge.net/projects/pwgen/)
